@@ -1,1 +1,1 @@
-<br><p align="center">${\textsf{\color{#FFC547}ILL RE-THEME THIS LATER #LAZYASHELL DOUBLES INT WITH HEAVY CAUTION}}$
+<br><p align="center">${\textsf{\color{#FFC547}ILL RE-THEME THIS LATER IM LAZY AS HELL DOUBLES INT WITH HEAVY CAUTION}}$
